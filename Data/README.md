@@ -9,3 +9,7 @@ The link has only values. The column names as follows:
 - Surv_status: Survival status (label). 
     - 1 = the patient survived 5 years or longer
     - 2 = the patient died within 5 year
+
+Sources:
+- Donor: Tjen-Sien Lim (limt@stat.wisc.edu)
+- Date: March 4, 1999
